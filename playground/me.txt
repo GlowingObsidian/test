@@ -1,0 +1,6 @@
+{{#user}
+Name: Shreyan
+Skills: HTML, CSS, JS, NodeJS, Bootstrap 5, Python
+Email: deyshreyan7@gmail.com
+{{/user}}
+
